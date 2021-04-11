@@ -1,2 +1,147 @@
-# digital-writing-2021
-RMIT University Digital Writing Lab notes and exercises
+# Digital Writing 2021
+
+These are the notes and exercises for the RMIT University Digital Writing Lab.
+
+## Class Resources
+
+* [Reading list on Canvas](https://ap01-a.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/27113935140001341?auth=SAML)
+* [Class handbook](https://rmit.instructure.com/courses/81421/pages/class-handbook-digital-writing)
+
+## Classes
+
+For most of the classes there are slides and a recording (the only exceptions are week 3 and week 7 when the presentations are given). If you miss a class go through the slides for that week and watch the recording. Later in the semester as we move to do more workshopping and exercises these slides and recordings will be less important.
+
+**Note:** Collaborate Ultra does not do a particularly good job of sharing the screen correctly so step-by-step instructions are given for exercises where screen sharing is necessary. The videos also don't play correctly but these are on the slides so you can watch them separately.
+
+### Week 1
+
+#### Week 1 Recap
+
+There are links to RMIT resources and you will also see a breakdown of the weeks on what we will cover.
+
+In class we did a couple of exercises answering:
+* What tools (or techniques) do you use to write?
+* How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
+* As part of the folio for the end of the semester I want you to continue to revisit these questions as you work through class exercises or on your major digital writing work.
+
+And we made a list of what everyone wanted or expected from the Digital Writing class.
+
+#### Week 1 Homework
+
+Read (I briefly showed these in class) (on top of the weekly readings):
+1. The kinetic poem ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
+2. The hypertext fiction ["First Draft of the Revolution"](https://collection.eliterature.org/3/work.html?work=first-draft-of-the-revolution)
+3. The interactive fiction work ["Shade"](https://pr-if.org/play/shade/)
+
+"Shade" is much more difficult to interact with so do read the "How to play IF" (link in the top right corner of "Shade") and look at the ["Play IF card"](https://pr-if.org/doc/play-if-card/).
+
+Write down your experience of (re)reading one of those works and we'll talk about it in class.
+
+Look at the [Electronic Literature Collection](https://collection.eliterature.org/). Try to go through it (any of the 3 volumes) and pick a work you'd like to do your Individual Case Study on in Week 3. The selection should be finalised with me by the end of class Week 2.
+
+Finally, create a [GitHub](https://github.com/) account and do the ["Hello World" exercise](https://guides.github.com/activities/hello-world/).
+
+#### Week 1 Resources
+
+* [Week 1 slides](https://slides.com/benjaminlaird/digital-writing-week-1/)
+* [Week 1 recording](https://au-lti.bbcollab.com/recording/2390da45453b4cf483bdf01d5091eafd)
+
+### Week 2
+
+#### Week 2 Recap
+
+We discussed the 3 works that were read between week 1 and week 2. We talked about the experience of reading each work and how they differed between works.
+
+In class we looked at "Taroko Gorge" and its different variations and remixes. We discussed:
+* whether we thought they were successful,
+* how they differ from print poetry, and
+* how reception of the poems is altered knowing that while a human conceived of the process a computer assembles it.
+
+We also talked about the qualities of electronic literature where it differs from print such as:
+* the reader's ability to interact with the work,
+* how the work reveals itself materially over time (as opposed to say a narrative which does this in the reader's mind),
+* how the text changes, and
+* the specific qualities of the type of work (e.g. links in a hypertext narrative, the parser interaction in a work like Shade).
+
+For your presentation you will need to discuss the aspects of the work as literature (such as the qualities that make it poem or how the narrative operates) and how the work produces meaning as a piece of electronic literature (that is, using the qualities and techniques of electronic literature).
+
+I also briefly showed Twine.
+
+#### Week 2 Homework
+
+If you haven't already you will need to set up a GitHub account and do the "Hello World" exercise (see last week's homework). This should be done by Week 4.
+
+Also look at [Twine](https://twinery.org/). Even if you don't intend to produce a hypertext fiction for your main work try using Twine as a way to arrange your ideas or play with narrative. As an exercise try adapting one of your already written print works—it can be fiction, nonfiction, or poetry—to Twine. Or if you have a work in progress try using Twine as a tool to develop that work. We'll do a deeper dive into Twine and hypertext narratives in week 5.
+
+#### Week 2 Resources
+
+* [Week 2 slides](https://slides.com/benjaminlaird/digital-writing-week-2/)
+* [Week 2 recording](https://au-lti.bbcollab.com/recording/84391545df0d48028a11abaae7a3c895)
+
+### Week 3
+
+#### Week 3 Recap
+
+The class was taken up with presentations for the Individual Case Study assignment.
+
+#### Week 3 Homework
+
+No homework but ensure that you have set up your GitHub account.
+
+#### Week 3 Resources
+
+No slides or recording this week as the case studies were presented.
+
+### Week 4
+
+#### Week 4 Recap
+
+In class this week we discussed the intensives. If you missed the class and have feedback about them, please let me know. Some of the feedback was that they clashed with assessments in other classes. I've passed that on and so in future years the intensives will be planned for after those assessment due dates.
+
+We then looked at algorithms and processes used to create poetry and historical examples of poems that were created with processes. We ran through some exercises using Tristan Tzara's process "To Make a Dadaist Poem", the Oulipo technique of N+7 and then we devised our own constraint for writing and used that to write a piece.
+
+The second half of the class I showed a poem I created on [Glitch](https://glitch.com) and we ran through remixing that poem ["We Walk To You"](https://we-walk-to-you.glitch.me/).
+
+Even if you made it to class it might be worth looking at the slides for this week as there were a couple of things I skipped over. There are also links on the last slide to learning resources for coding.
+
+#### Week 4 Homework
+
+Complete the [remix a digital poem, "We Walk To You", exercise](exercises/remix-a-digital-poem.md).
+
+And once you're happy with your poem post them on Canvas before the next class. I've started a discussion for you to [post your digital poems](https://rmit.instructure.com/courses/81421/discussion_topics/1137376)
+
+Also, feel free to make more than one by selecting remix again on "We Walk To You" or remix your own.
+
+In week 5 we cover hypertext fiction, so we look at Twine. In anticipation of that we'll want to use laptops a bit more and to download a few things onto them:
+1. [GitHub desktop](https://desktop.github.com/)
+2. [Visual Studio Code](https://code.visualstudio.com/)
+3. And though you can create and edit Twine online, I'd like you to download the latest version of [Twine](https://twinery.org/)
+
+
+#### Week 4 Resources
+
+* [Week 4 slides](https://slides.com/benjaminlaird/digital-writing-week-4/)
+* [Week 4 recording](https://au-lti.bbcollab.com/recording/30d34d519fed4fc08f270e4ce5e6bbe9)
+
+### Week 5
+
+#### Week 5 Recap
+
+In this class we looked at literary print precursors to digital hypertext fiction, the technical precursors to hypertext fiction, and hypertext fiction itself.
+
+We discussed the differences between digital hypertext fiction and fiction and between digital hypertext fiction and games. We also talked about how we plan print fiction and how we might plan (or not plan) hypertext fiction.
+
+In the second half of the class we worked on writing a short hypertext narrative with Twine and we used GitHub and Netlify to publish the poem so that it was publicly available.
+
+#### Week 5 Homework
+
+Complete the [create and publish a Twine story exercise](exercises/create-and-publish-a-twine-story.md).
+
+Once you've completed your simple Twine story, [post it on Canvas](https://rmit.instructure.com/courses/81421/discussion_topics/1149008).
+
+In week 6 we look at interactive fiction/text adventures so for this you will need to [download Inform 7](http://inform7.com/downloads/).
+
+#### Week 5 Resources
+
+* [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5/)
+* [Week 5 recording](https://au-lti.bbcollab.com/recording/c849f709840f4accb57d5ec6dc1d3a77)
