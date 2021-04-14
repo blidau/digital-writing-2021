@@ -145,3 +145,9 @@ In week 6 we look at interactive fiction/text adventures so for this you will ne
 
 * [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5/)
 * [Week 5 recording](https://au-lti.bbcollab.com/recording/c849f709840f4accb57d5ec6dc1d3a77)
+
+### Week 6
+
+#### Week 6 Resources
+* [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6/)
+* [Week 6 recording](https://au-lti.bbcollab.com/recording/a324af1522e04bfda0cbaacf32461fdc)
