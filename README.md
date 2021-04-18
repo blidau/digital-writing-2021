@@ -148,6 +148,20 @@ In week 6 we look at interactive fiction/text adventures so for this you will ne
 
 ### Week 6
 
+#### Week 6 Recap
+
+In the class we continued with Twine. We added images to the Twine story we started in week 5, and changed the font, background colour and link colours. I went through resources that you can use in your work that are out of copyright or have [Creative Commons licences](https://creativecommons.org/about/cclicenses/) that allow reuse under specified conditions.
+
+I briefly covered parser-based interactive fiction though we ran out of time to do the Inform 7 exercise (we will revist this later in the year). The rest of the class was discussing what is needed for the proposals in week 7. So, make sure you read the class handbook for the requirements and listen to the class recording for further discussion of what is needed. In general terms:
+
+* ensure you address the requirements in the class handbook
+* make sure you discuss the computationally necessary aspects of the work (e.g. interaction style, algorithm)
+* make sure you discuss the significance of the computationally necessary aspects of the work (e.g. why is linking or generative content meaningful in the work)
+
+#### Week 6 Homework
+
+Proposals are due week 7 so concentrate on working on those.
+
 #### Week 6 Resources
 * [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6/)
 * [Week 6 recording](https://au-lti.bbcollab.com/recording/a324af1522e04bfda0cbaacf32461fdc)
