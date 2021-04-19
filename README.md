@@ -13,6 +13,15 @@ For most of the classes there are slides and a recording (the only exceptions ar
 
 **Note:** Collaborate Ultra does not do a particularly good job of sharing the screen correctly so step-by-step instructions are given for exercises where screen sharing is necessary. The videos also don't play correctly but these are on the slides so you can watch them separately.
 
+### Recordings
+
+To watch the recordings for each week:
+
+1. Log into Canvas
+2. Select "Collaborate Ultra" in the main menu
+3. Click the menu icon (three lines) to the left of "Sessions"
+4. Select "Recordings" to show the most recent recordings (for older recordings adjust the filter)
+
 ### Week 1
 
 #### Week 1 Recap
@@ -44,7 +53,6 @@ Finally, create a [GitHub](https://github.com/) account and do the ["Hello World
 #### Week 1 Resources
 
 * [Week 1 slides](https://slides.com/benjaminlaird/digital-writing-week-1/)
-* [Week 1 recording](https://au-lti.bbcollab.com/recording/2390da45453b4cf483bdf01d5091eafd)
 
 ### Week 2
 
@@ -76,7 +84,6 @@ Also look at [Twine](https://twinery.org/). Even if you don't intend to produce 
 #### Week 2 Resources
 
 * [Week 2 slides](https://slides.com/benjaminlaird/digital-writing-week-2/)
-* [Week 2 recording](https://au-lti.bbcollab.com/recording/84391545df0d48028a11abaae7a3c895)
 
 ### Week 3
 
@@ -121,7 +128,6 @@ In week 5 we cover hypertext fiction, so we look at Twine. In anticipation of th
 #### Week 4 Resources
 
 * [Week 4 slides](https://slides.com/benjaminlaird/digital-writing-week-4/)
-* [Week 4 recording](https://au-lti.bbcollab.com/recording/30d34d519fed4fc08f270e4ce5e6bbe9)
 
 ### Week 5
 
@@ -144,7 +150,6 @@ In week 6 we look at interactive fiction/text adventures so for this you will ne
 #### Week 5 Resources
 
 * [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5/)
-* [Week 5 recording](https://au-lti.bbcollab.com/recording/c849f709840f4accb57d5ec6dc1d3a77)
 
 ### Week 6
 
@@ -164,4 +169,3 @@ Proposals are due week 7 so concentrate on working on those.
 
 #### Week 6 Resources
 * [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6/)
-* [Week 6 recording](https://au-lti.bbcollab.com/recording/a324af1522e04bfda0cbaacf32461fdc)
