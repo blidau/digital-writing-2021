@@ -169,3 +169,30 @@ Proposals are due week 7 so concentrate on working on those.
 
 #### Week 6 Resources
 * [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6/)
+
+
+### Week 7
+
+#### Week 7 Recap
+
+Proposal presentations were this week and [Jini Maxwell](https://jinimaxwell.com/) came in as a guest.
+
+These are the works Jini mentioned in class:
+* [Porpentine's body of work](http://slimedaughter.com/) (Jini particularly recommends [Ultrabusiness Tycoon III](http://slimedaughter.com/games/twine/tycoon/))
+* [Depression Quest](http://www.depressionquest.com/)
+* [Under a Star Called Sun](https://haraiva.itch.io/under-a-star-called-sun)
+* [Touch Melbourne](https://gleeson.itch.io/touchmelbourne)
+
+And from Jini:
+
+> I didn't mention this one in class, but [State: Burial](https://afterglowgames.itch.io/state-burial) is a great example of a narrative Bitsy &ndash; could be a good one for students who are interested in the engine, but want to make something more literary!
+
+#### Week 7 Homework
+
+Make sure you upload your slides and support material to the assignment on Canvas.
+
+Also, collect together and bring any technical questions / problems and we will create a list in class.
+
+#### Week 7 Resources
+
+No slides or recording this week as the project proposals were presented.
