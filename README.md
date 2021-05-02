@@ -168,6 +168,7 @@ I briefly covered parser-based interactive fiction though we ran out of time to 
 Proposals are due week 7 so concentrate on working on those.
 
 #### Week 6 Resources
+
 * [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6/)
 
 
@@ -196,3 +197,21 @@ Also, collect together and bring any technical questions / problems and we will 
 #### Week 7 Resources
 
 No slides or recording this week as the project proposals were presented.
+
+### Week 8
+
+#### Week 8 Recap
+
+This week we covered the differences between games and digital literature (and how they overlap). We discussed how a game is read&mdash;and for what qualities&mdash;versus how a piece of literature is read. 
+
+We also looked at and discussed web and game accessibility. There are links to accessibility resources in the slides.
+
+Finally, we made a list of technical issues to address (these can be found under the [How To Guides](/how-to-guides/)) and started small exercises to answer some of these problems.
+
+#### Week 8 Homework
+
+No homework other than the continuing project and folio work. Keep bringing in any technical problems that arise as you develop your projects.
+
+#### Week 8 Resources
+
+* [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-8/)
