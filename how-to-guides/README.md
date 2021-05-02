@@ -1,1 +1,15 @@
 # How To Guides
+
+* Adding a background to Twine
+* Change the font and font colour in Twine
+* Updating a HTML element with JavaScript
+* Adding a simple animation
+* Lots of (faux) pop-up windows in Twine
+* Raining emojis or text
+* Refresh/remix button that repopulates the content
+* On change events in JavaScript
+* Add audio to a HTML page
+* Randomly place text/image on a page
+* Display a letter at a time in Twine
+* Text effect stop in Twine
+* Add sound to a specific passage in Twine
