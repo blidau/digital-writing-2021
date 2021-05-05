@@ -214,4 +214,4 @@ No homework other than the continuing project and folio work. Keep bringing in a
 
 #### Week 8 Resources
 
-* [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-8/)
+* [Week 8 slides](https://slides.com/benjaminlaird/digital-writing-week-8/)
