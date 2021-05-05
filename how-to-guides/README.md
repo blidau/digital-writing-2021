@@ -7,7 +7,7 @@
 * Lots of (faux) pop-up windows in Twine
 * Raining emojis or text
 * Refresh/remix button that repopulates the content
-* On change events in JavaScript
+* Update text based on input change
 * Add audio to a HTML page
 * Randomly place text/image on a page
 * Display a letter at a time in Twine
