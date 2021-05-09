@@ -215,3 +215,19 @@ No homework other than the continuing project and folio work. Keep bringing in a
 #### Week 8 Resources
 
 * [Week 8 slides](https://slides.com/benjaminlaird/digital-writing-week-8/)
+
+### Week 9
+
+#### Week 9 Recap
+
+In class I went through questions that have come out of your projects. I showed how to add simple audio in Twine and audio in HTML/JavaScript with the use of a JavaScript audio library. I also briefly showed the Harlowe Audio Library for Twine which we will go into more detail in a later week.
+
+The last exercise involved creating an input box which would filter the typed in characters and, based on what was typed, show a list of words.
+
+#### Week 9 Homework
+
+No homework other than the continuing project and folio work. Keep bringing in any technical problems that arise as you develop your projects.
+
+#### Week 9 Resources
+
+* [Week 9 slides](https://slides.com/benjaminlaird/digital-writing-week-9/)
