@@ -16,3 +16,25 @@
 ## Week 5
 
 1. [Create and publish a Twine story](create-and-publish-a-twine-story.md)
+
+## Week 6
+
+1. Add an image to a Twine story
+2. Change the font and colours in a Twine story
+
+## Week 8
+
+1. Update HTML content with a button press
+
+## Week 9
+
+1. Add audio to a Twine story
+2. Remix a digital poem using an audio library
+3. Remix an input box filter
+
+## Week 10
+
+1. Create an image map in Twine
+2. Create a simple animation with CSS
+3. Remix typewriter text in HTML and JavaScript
+4. Remix text rain in HTML and JavaScript
