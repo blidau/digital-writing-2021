@@ -17,3 +17,5 @@
 * Add background audio to a Twine story
 * Click append technique in Twine
 * Image maps in Twine
+* Update visited link styling
+* Change style on click
