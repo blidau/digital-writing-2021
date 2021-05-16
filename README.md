@@ -231,3 +231,20 @@ No homework other than the continuing project and folio work. Keep bringing in a
 #### Week 9 Resources
 
 * [Week 9 slides](https://slides.com/benjaminlaird/digital-writing-week-9/)
+
+### Week 10
+
+This week was dedicated to addressing some of the technical questions raised by the various projects and we went through 4 exercises:
+
+1. Create an image map in Twine
+2. Create a simple animation with CSS
+3. Remix typewriter text in HTML and JavaScript
+4. Remix text rain in HTML and JavaScript
+
+#### Week 10 Homework
+
+No homework other than the continuing project and folio work.
+
+#### Week 10 Resources
+
+* [Week 10 slides](https://slides.com/benjaminlaird/digital-writing-week-10/)
