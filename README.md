@@ -234,6 +234,8 @@ No homework other than the continuing project and folio work. Keep bringing in a
 
 ### Week 10
 
+#### Week 10 Recap
+
 This week was dedicated to addressing some of the technical questions raised by the various projects and we went through 4 exercises:
 
 1. Create an image map in Twine
