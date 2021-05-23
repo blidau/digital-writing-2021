@@ -38,3 +38,14 @@
 2. Create a simple animation with CSS
 3. Remix typewriter text in HTML and JavaScript
 4. Remix text rain in HTML and JavaScript
+
+## Week 11
+
+1. Typewriter text in Twine
+2. Change the page background colour on click append in Twine
+3. Text rain in Twine
+
+## Week 12
+
+1. Artist CV
+2. Simple HTML/CSS website
