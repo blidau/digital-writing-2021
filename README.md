@@ -250,3 +250,32 @@ No homework other than the continuing project and folio work.
 #### Week 10 Resources
 
 * [Week 10 slides](https://slides.com/benjaminlaird/digital-writing-week-10/)
+
+### Week 11
+
+#### Week 11 Recap
+
+In class I covered the submission requirements for the developed creative work. I also went through 3 simple exercises:
+
+1. Typewriter text in Twine
+2. Change the page background colour on click append in Twine
+3. Text rain in Twine
+
+#### Week 11 Homework
+
+The developed creative work is due *before* class next week. A page needs to be uploaded to Canvas with:
+
+* Title of the work and your name
+* Description of the work
+* Intended audience
+* Developed work Netlify link(s)
+* Developed work GitHub links(s)
+* For Twine works a "proof" added to the GitHub repository
+
+The intended audience can be broad, such as horror readers, poetry readers, or online journal readers; or narrower, such as readers of a specific literary journal. This is so you can start thinking about where to send your work for publication.
+
+To add a proof, select "View Proofing Copy" in the Twine menu. This will open the proofing copy in a browser. Save the page as `proof.html` into your directory/folder with your Twine `index.html` file. Don't forgot to commit the new file and push the changes to GitHub.
+
+#### Week 11 Resources
+
+* [Week 11 slides](https://slides.com/benjaminlaird/digital-writing-week-11/)
