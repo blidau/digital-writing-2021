@@ -5,7 +5,7 @@
 ### Images
 
 * [Wikipedia Public Domain Images](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
-* [Flicker: The Commons](https://www.flickr.com/commons)
+* [Flickr: The Commons](https://www.flickr.com/commons)
 
 ### Audio
 
