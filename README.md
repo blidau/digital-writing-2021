@@ -279,3 +279,31 @@ To add a proof, select "View Proofing Copy" in the Twine menu. This will open th
 #### Week 11 Resources
 
 * [Week 11 slides](https://slides.com/benjaminlaird/digital-writing-week-11/)
+
+### Week 12
+
+#### Week 12 Recap
+
+This week we addressed the additional professional resources requirements for the folio (an artist CV or simple website). We also discussed the different places your works could be published such as online and digital literary journals or self-publishing. We looked at website building services and I went through how to make a very simple HTML/CSS website and publish that as a GitHub site.
+
+#### Week 12 Homework
+
+The folio is due Friday 4 June. Look at the requirements in the [course handbook](https://rmit.instructure.com/courses/81421/pages/class-handbook-digital-writing) but this will have been developed over the semester as you worked through the class exercises. As this is 15-30 pages each digital experiment will count as a page. For each digital experiment:
+
+* provide a screenshot of the work
+* a link to the work on Glitch (or Netlify depending on the piece)
+* a link to the work on GitHub
+* a reflection on the piece
+
+The minimum reflection is 500 words in total but you can certainly go over that amount.
+
+The other written experiments and reflections don't require any special treatment and can be added as is. Also take this as an opportunity to consolidate your thoughts about your digital writing and the direction you want (or don't want) it to go in.
+
+Finally, remember as you reflect on your writing to make sure you have addressed the two questions I raised at the beginning of the semester:
+
+1. What tools (or techniques) do you use to write?
+2. How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
+
+#### Week 12 Resources
+
+* [Week 12 slides](https://slides.com/benjaminlaird/digital-writing-week-12/)
